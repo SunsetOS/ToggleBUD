@@ -1,3 +1,3 @@
-# ToggleBUD(WIP)
+# ToggleBUD
 
 A Minecraft mod makes BUD toggleable.
